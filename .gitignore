@@ -1,0 +1,13 @@
+﻿node_modules/
+.env
+*.log
+dist/
+build/
+.cache/
+.vscode/
+.DS_Store
+__pycache__/
+frontend/node_modules/
+frontend/.env
+contracts/artifacts/
+contracts/cache/
